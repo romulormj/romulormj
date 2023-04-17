@@ -34,11 +34,6 @@
  <a href="https://www.linkedin.com/in/r%C3%B4mulo-rodrigues-33752720b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href=mailto:romulo.rodrigues.contato@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href=mailto:romulo547@hotmail.com target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:gustavo.joset0@hotmail.com">
-  
-  
-  ![Snake animation](https://github.com/RomuloRMJ/RomuloRMJ/blob/output/github-contribution-grid-snake.svg)
-
-
-  
+    
 </div>
 
