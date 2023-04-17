@@ -32,3 +32,5 @@
  <a href=mailto:romulo547@hotmail.com target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:gustavo.joset0@hotmail.com">
      
 </div>
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
