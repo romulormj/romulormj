@@ -3,6 +3,8 @@
 
 ##
 
+![snake animation](https://github.com/RomuloRMJ/RomuloRMJ/blob/output/github-contribution-grid-snake.svg)
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RomuloRMJ&show_icons=true&count_private=true&hide_border=true&title_color=01CD04&icon_color=6F0497&text_color=01CD04&bg_color=0d1117" alt="Rômulo Rodrigues github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloRMJ&layout=compact&hide_border=true&title_color=01CD04&text_color=01CD04&bg_color=0d1117" />
