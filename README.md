@@ -1,5 +1,9 @@
+<div align="center">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100">
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=01CD04&size=20&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rômulo+Rodrigues;I'm+25+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ##
 
@@ -32,3 +36,4 @@
  <a href=mailto:romulo547@hotmail.com target="_blank"><img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&link=mailto:gustavo.joset0@hotmail.com">
      
 </div>
+
