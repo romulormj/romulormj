@@ -1,6 +1,4 @@
-### 😎 About me 😎
-- ✨ I’m Rômulo Rodrigues
-- 📍 I’m from Brazil, living in Pernambuco 🇧🇷
+### Hi, I'm Rômulo Rodrigues, Welcome To My Github!
 
 
 
