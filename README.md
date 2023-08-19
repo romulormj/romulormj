@@ -38,7 +38,7 @@
 <img width="200" alt="GIF" align="center" src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=790b7611b4e4bf02c9b0877b66dad62090cb95617dbba4d7&rid=giphy.gif&ct=s">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=666FF9&size=35&center=true&vCenter=true&width=1000&lines=may+the+force+be+with+you!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=11A020&size=35&center=true&vCenter=true&width=1000&lines=may+the+force+be+with+you!)](https://git.io/typing-svg)
  
 
 
